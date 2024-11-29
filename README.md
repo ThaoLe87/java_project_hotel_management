@@ -1,6 +1,6 @@
-# java_project_hotel_management
+# java_project_house_keeping_management
 
-This repository keeps my code for a simple hotel management application, focusing on room and room attendant management.
+This repository keeps my code for a simple house keeping management application.
 
 I write the code using Java and MySQL following the UML diagram below
 
